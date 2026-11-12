@@ -1,4 +1,4 @@
 name: Production (WS)
 values:
   - key: URL
-    value: ""
+    value: "http://mu.mule-training.com/american-ws/flights"
