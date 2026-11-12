@@ -1,0 +1,7 @@
+$kind: http-request
+url: "{{URL}}/{{ID}}"
+method: GET
+headers:
+  client_id: "{{client_id}}"
+  client_secret: "{{client_secret}}"
+order: 3000

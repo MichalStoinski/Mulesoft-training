@@ -1,0 +1,9 @@
+$kind: http-request
+url: "{{URL}}?destination=CLE"
+method: GET
+headers:
+  client_id: "{{client_id}}"
+  client_secret: "{{client_secret}}"
+queryParams:
+  destination: CLE
+order: 2000

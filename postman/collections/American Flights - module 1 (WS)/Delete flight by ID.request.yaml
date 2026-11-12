@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{URL}}/{{ID}}"
+method: DELETE
+order: 4000

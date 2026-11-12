@@ -1,0 +1,26 @@
+$kind: http-request
+url: "{{URL}}"
+method: POST
+headers:
+  client_id: "{{client_id}}"
+  client_secret: "{{client_secret}}"
+body:
+  type: json
+  content: "{\r
+
+    \  \"code\": \"GQ574\",\r
+
+    \  \"price\": 399,\r
+
+    \  \"departureDate\": \"2016/12/20\",\r
+
+    \  \"origin\": \"ORD\",\r
+
+    \  \"destination\": \"SFO\",\r
+
+    \  \"emptySeats\": 200,\r
+
+    \  \"plane\": {\"type\": \"Boeing 747\", \"totalSeats\": 400}\r
+
+    }"
+order: 5000

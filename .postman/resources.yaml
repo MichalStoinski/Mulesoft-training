@@ -1,0 +1,13 @@
+workspace:
+  id: 9c3b6389-439c-4f8b-a3ef-b6f7c54fd56d
+cloudResources:
+  collections:
+    ../postman/collections/American Flights - module 1: 30190792-c4f2e0a1-48ba-4425-831f-65779a567f10
+    ../postman/collections/American Flights - module 1 (WS): 30190792-981af62c-4363-4e4d-b843-aa5ce084fc1a
+  environments:
+    ../postman/environments/Production.environment.yaml: 30190792-9ce68c6c-272e-4660-89ff-787b0b7ba9fd
+    ../postman/environments/Production (WS).environment.yaml: 30190792-b27c3a38-a0c4-49f0-9d83-73814592951f
+  globals:
+    ../postman/globals/workspace.globals.yaml: 412d892b-c774-45b7-8624-05c65184d1b2
+  documents:
+    ../postman/documents/README.md: 75f38ee5-3a2e-4ed4-b4ec-996aca8c4f4d
