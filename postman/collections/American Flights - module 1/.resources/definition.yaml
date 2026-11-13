@@ -1,1 +1,2 @@
 $kind: collection
+description: With `client_id` and `client_secret` to authenticate.
