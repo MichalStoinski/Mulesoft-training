@@ -1,0 +1,5 @@
+name: Mulesoft mock
+values:
+  - key: URL
+    value: "https://anypoint.mulesoft.com/mocking/api/v1/links/18b7a5ed-b529-4958-9b37-9834a1031456/flights"
+    description: URL created from MuleSoft Anypoint Designer
