@@ -1,0 +1,5 @@
+name: local (/api/)
+values:
+  - key: URL
+    value: "http://localhost:8081/api/flights"
+    description: Created by Anypoint Studio IDE

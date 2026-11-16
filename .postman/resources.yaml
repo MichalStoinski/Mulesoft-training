@@ -9,6 +9,7 @@ cloudResources:
     ../postman/environments/Production (WS).environment.yaml: 30190792-b27c3a38-a0c4-49f0-9d83-73814592951f
     ../postman/environments/Mulesoft mock.environment.yaml: 30190792-ee208977-50da-4d83-944b-3d6ef4b79446
     ../postman/environments/local.environment.yaml: 30190792-1d8eebe0-32d9-4a20-ae6d-3043107650f9
+    ../postman/environments/local (-api-).environment.yaml: 30190792-11889f32-4865-4776-be8b-e2c099ecfcb1
   globals:
     ../postman/globals/workspace.globals.yaml: 412d892b-c774-45b7-8624-05c65184d1b2
   documents:
